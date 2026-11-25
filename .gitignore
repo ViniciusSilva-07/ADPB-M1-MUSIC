@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+# Dados locais de cada usuário (não versionar: evitam conflito ao atualizar)
+config.json
+historico.json
